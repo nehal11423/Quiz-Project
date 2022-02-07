@@ -1,0 +1,145 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montagu Slab', serif;
+}
+.heading {
+    color:#FFD700;
+}
+.heading2 {
+    color:#FFFDD0;
+    font-family: 'Montagu Slab', serif;
+}
+.start {
+    display: flex;
+    justify-content: center;
+}
+
+.img1 {
+    height: 20%;
+    width: 20%;
+    border: solid 5px #FFFDD0;
+}
+
+.img1style {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.q1 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    color : #FFFDD0;
+    font-family: 'Montagu Slab', serif;
+}
+
+.q2 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    color : #FFFDD0;
+    font-family: 'Montagu Slab', serif;
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+}
+
+.hulk {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.hulkstyle {
+    display: flex;
+    justify-content: center;
+}
+.thor {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.thorstyle {
+    display: flex;
+    justify-content: center;
+}
+.iron {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.ironstyle {
+    display: flex;
+    justify-content: center;
+}
+.black {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.blackstyle {
+    display: flex;
+    justify-content: center;
+}
+
+.headh {
+    color:#00FF7F;
+    font-family: 'Montagu Slab', serif;
+}
+
+.headi {
+    color:#D10000;
+    font-family: 'Montagu Slab', serif;
+}
+
+.headb {
+    color:#421C52;
+    font-family: 'Montagu Slab', serif;
+    
+}
+
+.headt {
+    color:#4169e1;
+    font-family: 'Montagu Slab', serif;
+}
+.back {
+    height: 5%;
+    width: 5%;
+}
+.b1{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 110%;
+}
+.firste {
+    font-family: 'Patrick Hand', cursive;
+     font-size: 110%;
+}
+.reset {
+    display: flex;
+    justify-content: center;
+}
+.counter1 {
+color:white;
+}
